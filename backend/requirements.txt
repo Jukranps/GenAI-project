@@ -1,0 +1,24 @@
+# --- Base & Utils ---
+python-dotenv
+pydantic
+nest_asyncio
+
+# --- FastAPI Server ---
+fastapi
+uvicorn
+python-multipart
+h11==0.16.0
+httpcore==1.0.9
+httpx==0.28.1
+
+# --- LlamaIndex Core ---
+llama-index-core==0.12.52
+llama-parse==0.5.10
+
+# --- AI Integrations ---
+llama-index-llms-gemini
+llama-index-embeddings-gemini
+
+# --- AI Integrations (Groq & Chroma) ---
+llama-index-llms-groq==0.3.2
+chromadb==1.4.0
