@@ -30,8 +30,8 @@ A "Connection Discovery Engine" that visualizes how research papers relate to ea
 
 ```bash
 # Clone and configure
-git clone https://github.com/miikkalaitinen/tuwien-genai-project
-cd tuwien-genai-project
+git clone https://github.com/Jukranps/GenAI-project
+cd GenAI-project
 
 # Set up API keys
 cp backend/.env.example backend/.env
